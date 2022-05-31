@@ -16,7 +16,7 @@ regex==2022.4.24
 requests==2.27.1
 spamwatch==0.3.0
 spongemock==0.3.4
-SQLAlchemy==1.4.36
+SQLAlchemy==1.4.37
 telethon==1.24.0
 ujson==5.3.0
 wikipedia==1.4.0
